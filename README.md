@@ -103,6 +103,8 @@
 
 <a title = "Você será direcionado ao perfil de nicolasnk11" href = "https://github.com//nicolasnk11" >nicolasnk11</a><br>
 
+<img src = "https://github.com/nicolasnk11/Video-Educa/assets/124712680/05aaeef7-ae26-4b6f-955a-c814fd1d168e" height = "300px" />
+
 <a title = "Você será direcionado ao perfil de Wladison-Maciel" href = "https://github.com//Wladison-Maciel" >Wladison-Maciel</a><br>
 
   
